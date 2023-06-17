@@ -9,6 +9,7 @@ By examining the relationship between claimants and other variables and utilizin
 
 ## Models Used
 Logistic Regression: A statistical classification algorithm used for binary classifications into distinct categories using a maximum likelihood estimation formula to predict the log odds of the target variable, which can then be turned into probability. Though it is easy to interpret, it does assume linearity among the variables.
+
 log[p(X) / (1-p(X))]  =  β0 + β1X1 + β2X2 + … + βpXp
 p(X) = eβ0 + β1X1 + β2X2 + … + βpXp / (1 + eβ0 + β1X1 + β2X2 + … + βpXp)
 
