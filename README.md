@@ -1,3 +1,11 @@
+[![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/ML-Models-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/Library-Scikitlearn-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Library-Scipy-orange?style=for-the-badge)](https://crates.io/crates/redant)
+
+![](https://img.shields.io/static/v1?label=&message=DataExploration&color=green)
+![](https://img.shields.io/static/v1?label=&message=Predictions&color=blue)
+
 # Car Insurance-Fraud-Detection
 Detecting insurance fraud with machine learning models
 
