@@ -11,6 +11,7 @@ By examining the relationship between claimants and other variables and utilizin
 Logistic Regression: A statistical classification algorithm used for binary classifications into distinct categories using a maximum likelihood estimation formula to predict the log odds of the target variable, which can then be turned into probability. Though it is easy to interpret, it does assume linearity among the variables.
 
 log[p(X) / (1-p(X))]  =  β0 + β1X1 + β2X2 + … + βpXp
+
 p(X) = eβ0 + β1X1 + β2X2 + … + βpXp / (1 + eβ0 + β1X1 + β2X2 + … + βpXp)
 
 
@@ -31,5 +32,5 @@ Random Forest: Random Forest is an ensemble method that can be used for classifi
 
 Gradient boosting: Gradient Boosting is an ensemble learning algorithm, similar to the random forest, that builds simpler or weaker prediction models sequentially, where each model tries to predict the error left over by the previous model to obtain a better model. Both random forest and gradient boosting build a model consisting of multiple decision trees. The difference between random forest and gradient boosting is how the trees are built. Gradient boosting has no assumptions and can handle non-linear and imbalanced data.  
 Comparison of Random Forest and Gradient Boosting
- 
-![image](https://github.com/secil-carver/Insurance-Fraud-Detection/assets/77639654/a645e434-5963-4ea5-b047-5e1a2c770fc8)
+
+ ![image](https://github.com/secil-carver/Insurance-Fraud-Detection/assets/77639654/92938edb-4bee-404a-8302-1017ac58d927)
